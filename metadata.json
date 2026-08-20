@@ -1,0 +1,6 @@
+{
+  "name": "Vela",
+  "description": "Postpartum and early parenting support platform offering daily check-ins, depression screening, infant state guidance, evidence-based education, and local provider directories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
